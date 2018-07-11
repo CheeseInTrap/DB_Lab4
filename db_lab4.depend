@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1527044633 source:c:\mycode\c_code\db_lab4\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"extmem.h"
+
+1308709046 c:\mycode\c_code\db_lab4\extmem.h
+
+1527855004 source:c:\mycode\c_code\db_lab4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<time.h>
+	"extmem.h"
+	<map>
+
+1527262482 source:c:\mycode\c_code\db_lab4\extmem.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"extmem.h"
+
